@@ -1,0 +1,20 @@
+14:38:31.936 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.ExamplesTest
+14:38:32.139 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /Users/user/Desktop/Ilex/APITestCode/ilex-Test-Automation/target/test-classes/examples/users/CounterpartyManagement.feature
+14:38:32.201 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /Users/user/Desktop/Ilex/APITestCode/ilex-Test-Automation/target/test-classes/examples/users/users.feature
+14:38:33.456 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+14:38:34.942 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+14:38:35.606 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 607
+14:38:35.970 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 87
+14:38:36.114 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+14:38:37.043 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 843
+14:38:37.072 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+14:51:55.669 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.ExamplesTest
+14:51:56.307 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /Users/user/Desktop/Ilex/APITestCode/ilex-Test-Automation/target/test-classes/examples/users/CounterpartyManagement.feature
+14:51:56.453 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /Users/user/Desktop/Ilex/APITestCode/ilex-Test-Automation/target/test-classes/examples/users/users.feature
+14:51:57.942 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+14:51:59.575 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+14:52:00.226 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 608
+14:52:00.550 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 93
+14:52:00.649 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+14:52:01.872 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1141
+14:52:01.906 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
