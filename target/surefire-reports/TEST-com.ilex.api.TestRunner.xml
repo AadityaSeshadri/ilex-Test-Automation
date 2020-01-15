@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="6" failures="0" name="users.CounterpartyManagement" time="0.004" errors="0" skipped="0">
+<testsuite tests="6" failures="0" name="com.ilex.api.TestRunner" time="0.005" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.2+9"/>
@@ -14,7 +14,7 @@
     <property name="sun.os.patch.level" value="unknown"/>
     <property name="user.country" value="SG"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
-    <property name="test" value="CounterpartyManagement"/>
+    <property name="test" value="com.ilex.api.TestRunner"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="user.dir" value="/Users/user/Desktop/Ilex/APITestCode/ilex-Test-Automation"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
@@ -45,7 +45,7 @@
     <property name="java.class.path" value="/usr/local/Cellar/maven/3.5.3/libexec/boot/plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="11"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test -Dtest=CounterpartyManagement"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test -Dtest=com.ilex.api.TestRunner"/>
     <property name="java.home" value="/Library/Java/JavaVirtualMachines/openjdk-11.0.2.jdk/Contents/Home"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -62,10 +62,10 @@
     <property name="java.vendor.version" value="18.9"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="Scenario: Get contacts" name="* url &apos;http://localhost:8080/&apos;" time="0.002"/>
-  <testcase classname="Scenario: Get contacts" name="* header Accept = &apos;application/json&apos;" time="0.001"/>
+  <testcase classname="Scenario: Get contacts" name="* url &apos;http://localhost:8080/&apos;" time="0.003"/>
+  <testcase classname="Scenario: Get contacts" name="* header Accept = &apos;application/json&apos;" time="0.002"/>
   <testcase classname="Scenario: Get contacts" name="Given path &apos;api/v1/usernetworks/contacts&apos;" time="0"/>
   <testcase classname="Scenario: Get contacts" name="When method get" time="0"/>
   <testcase classname="Scenario: Get contacts" name="Then status 200" time="0"/>
-  <testcase classname="Scenario: Get contacts" name="Scenario: Get contacts" time="0.001"/>
+  <testcase classname="Scenario: Get contacts" name="Scenario: Get contacts" time="0"/>
 </testsuite>

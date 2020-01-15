@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: users.CounterpartyManagement
+Test set: com.ilex.api.Animals.Animals
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.678 sec
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.557 sec

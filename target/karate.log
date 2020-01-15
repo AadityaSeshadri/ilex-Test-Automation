@@ -18,3 +18,15 @@
 14:52:00.649 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
 14:52:01.872 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1141
 14:52:01.906 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+17:38:00.739 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class com.ilex.api.TestRunner
+17:38:00.926 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /Users/user/Desktop/Ilex/APITestCode/ilex-Test-Automation/target/test-classes/com/ilex/api/CounterpartyManagement/CounterpartyManagement.feature
+17:38:02.119 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+17:38:02.973 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 412
+17:38:34.263 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class com.ilex.api.TestRunner
+17:38:34.428 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /Users/user/Desktop/Ilex/APITestCode/ilex-Test-Automation/target/test-classes/com/ilex/api/CounterpartyManagement/CounterpartyManagement.feature
+17:38:35.629 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+17:38:36.366 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 349
+17:39:08.403 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class com.ilex.api.Animals.Animals
+17:39:08.571 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /Users/user/Desktop/Ilex/APITestCode/ilex-Test-Automation/target/test-classes/com/ilex/api/Animals/Animals.feature
+17:39:09.750 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+17:39:10.499 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 327
